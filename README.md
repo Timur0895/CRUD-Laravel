@@ -18,4 +18,6 @@ php artisan migrate --seed
 
 php artisan serve
 
+![Image alt](https://github.com/Timur0895/CRUD-Laravel/blob/master/screenshot.jpg)
+
 В итоге имеет простую реализацию CRUD операции с использованием Laravel оформление использовалось с Bootstrap
